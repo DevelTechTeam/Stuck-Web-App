@@ -1,5 +1,6 @@
 export const appConfig = {
-    title: "Stuck App!",
-    primaryTheme: "black",
+    title: "StarterSaas",
+    description: "Your road side assistant",
+    primaryTheme: "luxury",
     secondTheme: "light"
 }

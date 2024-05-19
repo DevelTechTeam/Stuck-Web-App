@@ -7,6 +7,7 @@ The Tech stack for this starter app is the following
 2. ClerkAuth - User Management
 3. DaisyUI - UI Theme
 4. MongoDb - Document Database
+6. Recoil - State Management
 
 ## Getting Started
 

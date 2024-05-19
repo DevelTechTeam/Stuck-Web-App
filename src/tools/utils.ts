@@ -1,3 +1,5 @@
+import clsx, { ClassValue } from "clsx";
+import { twMerge } from "tailwind-merge";
 
 
 // ERROR HANDLER
@@ -42,3 +44,8 @@ export const deepMergeObjects = (obj1: any, obj2: any) => {
   
     return output;
   };
+
+
+  export function cn(...inputs: ClassValue[]) {
+    return twMerge(clsx(inputs));
+  }
