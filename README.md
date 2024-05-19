@@ -8,6 +8,8 @@ The Tech stack for this starter app is the following
 3. DaisyUI - UI Theme
 4. MongoDb - Document Database
 6. Recoil - State Management
+7. Lucide Icons
+8. Svix - Webhooks
 
 ## Getting Started
 
